@@ -1,11 +1,11 @@
 {
-  "name": "npm-create-js",
+  "name": "anc",
   "description": "A Node.js module boilerplate made simple",
   "version": "0.0.1",
   "main": "dist/index.js",
   "license": "MIT",
   "bin": {
-    "npm-create-js": "dist/index.js"
+    "anc": "dist/index.js"
   },
   "scripts": {
     "start": "node dist/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jwoo92/npm-create-js.git"
+    "url": "https://github.com/jwoo92/anc.git"
   },
   "keywords": ["javascript", "node", "nodejs", "boilerplate", "generator", "npm", "cli", "utility"],
   "author": {
@@ -28,7 +28,7 @@
     "url": "http://justinwoodward.com"
   },
   "bugs": {
-    "url": "https://github.com/jwoo92/npm-create-js/issues"
+    "url": "https://github.com/jwoo92/anc/issues"
   },
   "dependencies": {
     "chalk": "^2.4.1"
