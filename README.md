@@ -1,9 +1,11 @@
 # Automate and Chill
 
+A Node.js module boilerplate made simple
+
 [![npm](https://img.shields.io/npm/v/anc.svg)](https://www.npmjs.com/package/anc)
 [![npm](https://img.shields.io/npm/dt/anc.svg)](https://www.npmjs.com/package/anc)
 
-A Node.js module boilerplate made simple
+<p align="center"><img src="anc-logo.jpg" /></p>
 
 ## Installation and Usage
 
